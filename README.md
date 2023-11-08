@@ -1,5 +1,5 @@
 # Deep Learning Model for Autocorrect
-UC San Diego LIGN 167
+UC San Diego LIGN 167<br>
 Casey Hild, Trevor Tran
 
 Sources:
