@@ -1,4 +1,4 @@
-# Deep Learning Model for Autocorrect
+# Deep Learning Model for Autocorrect - NLP
 UC San Diego LIGN 167<br>
 Casey Hild, Trevor Tran
 
