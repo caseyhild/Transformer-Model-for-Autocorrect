@@ -1,4 +1,4 @@
-# Deep Learning NLP Model for Autocorrect
+# NLP Model for Autocorrect
 I implemented, trained, and tested a deep learning neural network model to recognize, interpret, and apply autocorrect to natural language input.<br><br>
 With this model, I achieved a loss of 3.0 and an accuracy score of 72% for the final model.<br><br>
 Throughout this project, I used the PyTorch library in Python to create the neural network model as well as GitHub and Git for version control.
